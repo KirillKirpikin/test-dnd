@@ -1,0 +1,10 @@
+.search{ 
+    @apply w-[70%] pt-[40px] mx-auto flex mb-[20px] justify-center;
+    input{
+        @apply text-black w-[70%] py-[15px] px-[10px] rounded-2xl outline-none;
+    }
+    button{
+        @apply px-[10px] py-[15px] bg-black rounded-2xl;
+    }
+
+}

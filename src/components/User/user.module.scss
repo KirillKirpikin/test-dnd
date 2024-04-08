@@ -1,0 +1,10 @@
+.user{
+   @apply underline-offset-0 transition-all px-12 pt-[20px];
+    span{
+        @apply uppercase underline underline-offset-4;
+    }
+    &:hover{
+        @apply text-blue-600;
+       
+    }
+}

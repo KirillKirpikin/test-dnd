@@ -1,0 +1,7 @@
+.container{
+    @apply h-screen w-full bg-neutral-900 text-neutral-50 relative;
+}
+
+.not_found{
+    @apply text-center mt-[100px] text-[50px];
+}
